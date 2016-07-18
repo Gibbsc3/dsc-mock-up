@@ -1,0 +1,86 @@
+.logo {
+  width: 90%;
+  margin-top: 7%;
+}
+
+.logo-text {
+  margin-top: 9%;
+}
+
+.navbar {
+  background-color: black;
+  margin-bottom: -1px;
+}
+
+.navbar a {
+  margin: 8px;
+  color: white;
+  font-size: 17px;
+  padding: 10px;
+}
+
+.navbar a:hover {
+  text-decoration: none;
+  background-color: #ee0088;
+}
+
+.links {
+  margin-top: 1%;
+}
+
+.banner {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.banner .banner-date {
+  display: inline-block;
+  color: #ee0088;
+}
+
+.banner .banner-loc {
+  display: inline-block;
+  color: #ee0088;
+}
+
+.banner .banner-moto {
+  color: white;
+  font-size: 78px;
+}
+
+.banner .banner-deets h1 {
+  color: white;
+  font-size: 30px;
+}
+
+.banner .banner-deets p {
+  color: white;
+  font-size: 20px;
+}
+
+.banner .button-row .btn-attend {
+  background-color: transparent;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  color: white;
+  border: 5px solid grey;
+}
+
+.banner .button-row .btn-register {
+  background-color: #c4d85f;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  color: black;
+  border: 5px solid #c4d85f;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #19a9de;
+}
